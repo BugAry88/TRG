@@ -1,0 +1,67 @@
+# CodeIgniter 4 .gitignore
+
+# Environment files
+.env
+.env.*
+
+# Logs
+writable/logs/*.log
+writable/logs/log-*.log
+
+# Debug files
+writable/debugbar/*.json
+writable/debugbar/debugbar_*.json
+
+# Session files
+writable/session/*
+!writable/session/.gitkeep
+writable/session/ci_session*
+
+# Cache
+writable/cache/*
+!writable/cache/.gitkeep
+
+# Uploads
+writable/uploads/*
+!writable/uploads/.gitkeep
+
+# Composer
+/vendor/
+composer.lock
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Node modules (if using npm)
+node_modules/
+
+# Build artifacts
+/build/
+/dist/
+
+# PHPUnit
+.phpunit.result.cache
+.phpunit.cache
+
+# Coverage reports
+coverage/
+
+# Local configuration
+app/Config/Database.php.local
