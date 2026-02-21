@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#f8f9fa"/>
+  <rect x="80" y="80" width="240" height="140" rx="15" fill="#D4A574" stroke="#8B6914" stroke-width="2"/>
+  <circle cx="200" cy="150" r="50" fill="none" stroke="#8B6914" stroke-width="2"/>
+  <circle cx="200" cy="150" r="5" fill="#8B6914"/>
+  <text x="200" y="260" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" fill="#333">Oak Plinth</text>
+</svg>

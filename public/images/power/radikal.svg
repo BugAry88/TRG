@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#f8f9fa"/>
+  <rect x="110" y="90" width="180" height="110" rx="8" fill="#333" stroke="#111" stroke-width="2"/>
+  <circle cx="155" cy="145" r="10" fill="#4CAF50"/>
+  <rect x="185" y="120" width="80" height="40" rx="3" fill="#222"/>
+  <text x="225" y="145" text-anchor="middle" font-family="Inter, sans-serif" font-size="10" fill="#008080">RADIKAL</text>
+  <text x="200" y="260" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" fill="#333">Radikal Power Supply</text>
+</svg>

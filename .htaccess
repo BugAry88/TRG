@@ -1,0 +1,10 @@
+# Redirect to public folder
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /TRG/
+
+    # If the requested file or directory doesn't exist, redirect to public/
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)$ public/index.php/$1 [L,QSA]
+</IfModule>

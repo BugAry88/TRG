@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#f8f9fa"/>
+  <rect x="155" y="95" width="90" height="110" rx="5" fill="#008080" stroke="#006666" stroke-width="2"/>
+  <line x1="200" y1="205" x2="200" y2="225" stroke="#333" stroke-width="2"/>
+  <text x="200" y="260" text-anchor="middle" font-family="Inter, sans-serif" font-size="16" fill="#333">Kandid Cartridge</text>
+</svg>
